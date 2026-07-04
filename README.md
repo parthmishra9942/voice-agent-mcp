@@ -7,6 +7,11 @@
 
 A sub-second, streaming conversational **Voice AI Agent** natively powered by Anthropic's **Model Context Protocol (MCP)**. Decouples language modeling from business logic by exposing live databases, APIs, and microservices via an asynchronous **JSON-RPC 2.0 MCP server**, with real-time **barge-in interruption detection** via energy-based Voice Activity Detection (VAD).
 
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Portfolio Showcase" width="100%" style="border-radius: 10px;">
+</p>
+
 ---
 
 ## 🏛️ System Architecture
